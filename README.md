@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/covers/36-Zodiac-Showcase.jpg" alt="Zodiac-Showcase 项目封面" width="100%"></p>
+
 # ✨ 星座奥秘 — Zodiac Showcase
 
 > 探索十二星座的神奇特质 — 沉浸式星空互动展示
